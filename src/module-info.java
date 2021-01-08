@@ -5,5 +5,5 @@
  * @author RobertoPacho
  *
  */
-module Proyecto_Git {
+module Practica_Git {
 }
