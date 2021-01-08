@@ -1,4 +1,4 @@
-package ec.ups.edu.git;
+package ec.ups.edu.practica;
 
 public class Principal {
 
